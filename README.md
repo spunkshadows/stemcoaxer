@@ -27,4 +27,4 @@ Designed for live performers, `reacoaxer` "coaxes" optimal performance from WAV 
 ## 🛠 Dev
 Built with **Lua** (Reaper API v6.0+).
 ```bash
-git clone https://github.com/spunkshadows/reaspunk.git   
+git clone https://github.com/spunkshadows/reacoaxer.git   
