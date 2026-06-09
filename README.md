@@ -1,6 +1,6 @@
 # StemSike  (not available for use, under design/construction)
 
-**StemSike analyzes your live performance stems—vocals, drums, bass, and more—to deliver sharp, musician-friendly cues that sike you into vibe-code-synch up, using your own playing as the blueprint.**
+**StemSike analyzes your live performance stems to deliver sharp cues that help you settle into your unique vibe-code, using your own playing as the blueprint.**
 
 **(a real-time extension for Reaper, a Digital Audio Workstation by Cockos Incorporated)**
 
