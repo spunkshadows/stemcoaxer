@@ -1,6 +1,6 @@
-# stemsike  (not available for use, under design/construction)
+# StemSike  (not available for use, under design/construction)
 
-**stemsike analyzes audio stems from live performance and generates musician-friendly performance cues.**
+**StemSike analyzes your live performance stems—vocals, drums, bass, and more—to deliver sharp, musician-friendly cues that sike you into vibe-code-synch up, using your own playing as the blueprint.**
 
 **(a real-time extension for Reaper, a Digital Audio Workstation by Cockos Incorporated)**
 
@@ -21,11 +21,11 @@
 
 ## 🎮 Usage
 1.  Load live WAV stems into tracks.
-2.  Run action: **`stemsike: Start live stem coaxing`**.
+2.  Run action: **`StemSike: Start live stem sike`**.
 3.  Follow on-screen cues or OSC output.
-4.  Adjust sensitivity via **`stemcoaxer: Settings`**.   
+4.  Adjust sensitivity via **`StemSike: Settings`**.   
 
 ## 🛠 Dev
 Built with **Lua** (Reaper API v6.0+).
 ```bash
-git clone https://github.com/spunkshadows/stemsike.git   
+git clone https://github.com/spunkshadows/StemSike.git   
